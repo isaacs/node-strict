@@ -1,0 +1,32 @@
+{
+  "name": "node-strict",
+  "version": "0.0.0",
+  "description": "Make your Node programs strict about stuff",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/isaacs/node-strict"
+  },
+  "keywords": [
+    "commandments",
+    "strict",
+    "mode",
+    "nosync",
+    "noexit"
+  ],
+  "author": "Isaac Z. Schlueter <i@izs.me> (http://blog.izs.me/)",
+  "license": "BSD",
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/isaacs/node-strict/issues"
+  },
+  "dependencies": {
+    "nosync": "~1.0.0",
+    "noexit": "~1.0.0",
+    "coffee-cleanse": "~1.2.5",
+    "use-strict": "~1.0.0"
+  }
+}
