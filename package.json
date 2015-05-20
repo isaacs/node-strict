@@ -1,6 +1,6 @@
 {
   "name": "node-strict",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Make your Node programs strict about stuff",
   "main": "index.js",
   "scripts": {
